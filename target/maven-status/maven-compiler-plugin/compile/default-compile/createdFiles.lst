@@ -1,0 +1,4 @@
+com\mycompany\api\cadastro\DemoApplication.class
+com\mycompany\api\cadastro\JakartaRestConfiguration.class
+com\mycompany\api\cadastro\resources\JakartaEE11Resource.class
+com\mycompany\api\cadastro\HelloResource.class
