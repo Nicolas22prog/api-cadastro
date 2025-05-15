@@ -1,4 +1,6 @@
 C:\Users\nicol\Documents\NetBeansProjects\api-cadastro\src\main\java\com\mycompany\api\cadastro\DemoApplication.java
 C:\Users\nicol\Documents\NetBeansProjects\api-cadastro\src\main\java\com\mycompany\api\cadastro\JakartaRestConfiguration.java
-C:\Users\nicol\Documents\NetBeansProjects\api-cadastro\src\main\java\com\mycompany\api\cadastro\resources\HelloResource.java
+C:\Users\nicol\Documents\NetBeansProjects\api-cadastro\src\main\java\com\mycompany\api\cadastro\Produto.java
 C:\Users\nicol\Documents\NetBeansProjects\api-cadastro\src\main\java\com\mycompany\api\cadastro\resources\JakartaEE11Resource.java
+C:\Users\nicol\Documents\NetBeansProjects\api-cadastro\src\main\java\com\mycompany\api\cadastro\resources\ProductResource.java
+C:\Users\nicol\Documents\NetBeansProjects\api-cadastro\src\main\java\com\mycompany\api\cadastro\resources\produtoDAO\ProdutoDAO.java
