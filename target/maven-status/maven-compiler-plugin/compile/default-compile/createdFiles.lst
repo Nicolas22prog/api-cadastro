@@ -1,6 +1,7 @@
 com\mycompany\api\cadastro\resources\JakartaEE11Resource.class
+com\mycompany\api\cadastro\TestDBResource.class
 com\mycompany\api\cadastro\Produto.class
 com\mycompany\api\cadastro\resources\ProductResource.class
-com\mycompany\api\cadastro\DemoApplication.class
 com\mycompany\api\cadastro\JakartaRestConfiguration.class
 com\mycompany\api\cadastro\resources\produtoDAO\ProdutoDAO.class
+com\mycompany\api\cadastro\ApplicationConfig.class
