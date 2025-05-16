@@ -24,7 +24,7 @@ public class ProdutoDAO {
         return entityManager.find(Produto.class, id);
     }
     public List<Produto> findAll(){
-        return entityManager.createQuery("SELECT p FROM Produto p",Produto.class).getResultList();
+        return entityManager.createQuery("SELECT p FROM produtos p",Produto.class).getResultList();
     }
     
     public void save (Produto produto) {
@@ -32,7 +32,7 @@ public class ProdutoDAO {
     }
     
     
-    @Resource(lookup ="jdbc/produtos_db")
+    @Resource(lookup ="jdbc/produtos")
     private DataSource dataSource;
     
     public void conexao(){
